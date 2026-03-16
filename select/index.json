@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ダレヨリ (Album Ver.)",
+  "base_artist": "reGretGirl",
+  "createdAt": "2026-03-16T09:50:25.352331Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダレヨリ",
+      "artist": "reGretGirl",
+      "has_synced": false,
+      "path": "select/pl_01_ダレヨリ_reGretGirl.txt"
+    }
+  ]
+}
